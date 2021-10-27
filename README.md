@@ -17,5 +17,5 @@ git clone git@github.com:felpsey/dotfiles.git ~/.dotfiles
 3. Run the install script
 
 ```zsh
-cd ~/.dotfiles && sh install.sh
+cd ~/MacOS-Configuration && sh install.sh
 ```
